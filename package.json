@@ -1,0 +1,18 @@
+{
+  "name": "mdx-slides",
+  "version": "1.0.0",
+  "description": "Here are the slides of presentation I led in the past, built with [mdx-deck](https://github.com/jxnblk/mdx-deck).",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simongong/mdx-slides.git"
+  },
+  "author": "simon.gong <simon.gong64@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mdx-deck": "^1.5.10"
+  }
+}
